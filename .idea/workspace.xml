@@ -37,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.passingFunctions">
+  <component name="RunManager" selected="Application.MultiDimensional">
     <configuration name="Greetings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Functions.Greetings" />
       <module name="Conditions_Loop" />
@@ -51,12 +51,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions.Sum" />
+    <configuration name="MultiDimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.MultiDimensional" />
       <module name="Conditions_Loop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Functions.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiDimensional" />
         <item itemvalue="Application.passingFunctions" />
         <item itemvalue="Application.input" />
         <item itemvalue="Application.arrays" />
         <item itemvalue="Application.Greetings" />
-        <item itemvalue="Application.Sum" />
       </list>
     </recent_temporary>
   </component>
