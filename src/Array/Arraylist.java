@@ -23,6 +23,7 @@ public class Arraylist {
 //            number.remove(0);
 
             list.set(0,1234);
+//             in order to access elements through index--> we use get(index)
 //            System.out.println(number.get(3));
 //            System.out.println(cars);
 
@@ -55,3 +56,5 @@ public class Arraylist {
 //Arraylist ---> with the help of this arraylist we can resize our array unlike other array type whose size can't be resize
 //Strings in java is object type , and string can't be modify but array does
 //ArrayList also have one package called collection class and it is used for sorting the array elements alphabetically
+// Array reference varible are in heap and varibales are in stack???
+// In Arraylist ---> size is fixed internally

@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3a21051e-c428-482f-9959-571989191368" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Arraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Arraylist.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,20 +41,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Arraylist">
-    <configuration name="Add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Add" />
-      <module name="Conditions_Loop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReverseArray">
     <configuration name="Arraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.Arraylist" />
       <module name="Conditions_Loop" />
@@ -80,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiDimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.MultiDimensional" />
+    <configuration name="MultiArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.MultiArrayList" />
       <module name="Conditions_Loop" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +81,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="passingFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.passingFunctions" />
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.ReverseArray" />
+      <module name="Conditions_Loop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwapArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.SwapArrayList" />
       <module name="Conditions_Loop" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseArray" />
+        <item itemvalue="Application.SwapArrayList" />
+        <item itemvalue="Application.MultiArrayList" />
         <item itemvalue="Application.Arraylist" />
         <item itemvalue="Application.ColNoFixed" />
-        <item itemvalue="Application.Add" />
-        <item itemvalue="Application.MultiDimensional" />
-        <item itemvalue="Application.passingFunctions" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +144,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Array/Arraylist.java</url>
-          <line>54</line>
+          <line>55</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
