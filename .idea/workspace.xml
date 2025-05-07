@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3a21051e-c428-482f-9959-571989191368" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/basic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,20 +41,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.basic">
-    <configuration name="Arraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Arraylist" />
-      <module name="Conditions_Loop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.fabonacciNo">
     <configuration name="MultiArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.MultiArrayList" />
       <module name="Conditions_Loop" />
@@ -106,13 +94,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="fabonacciNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.fabonacciNo" />
+      <module name="Conditions_Loop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.fabonacciNo" />
         <item itemvalue="Application.basic" />
         <item itemvalue="Application.ReverseArray" />
         <item itemvalue="Application.SwapArrayList" />
         <item itemvalue="Application.MultiArrayList" />
-        <item itemvalue="Application.Arraylist" />
       </list>
     </recent_temporary>
   </component>
