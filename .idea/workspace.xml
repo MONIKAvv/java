@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3a21051e-c428-482f-9959-571989191368" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/fabonacciNo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/fabonacciNo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BinarySearch">
+  <component name="RunManager" selected="Application.ClassObject">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursion.BinarySearch" />
       <module name="Conditions_Loop" />
@@ -56,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.ReverseArray" />
+    <configuration name="ClassObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.ClassObject" />
       <module name="Conditions_Loop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="OOPS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.SwapArrayList" />
+    <configuration name="Introduction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.Introduction" />
       <module name="Conditions_Loop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="OOPS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassObject" />
+        <item itemvalue="Application.Introduction" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.fabonacciNo" />
         <item itemvalue="Application.basic" />
-        <item itemvalue="Application.ReverseArray" />
-        <item itemvalue="Application.SwapArrayList" />
       </list>
     </recent_temporary>
   </component>
