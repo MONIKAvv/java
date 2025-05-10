@@ -15,3 +15,7 @@ class Students{
     String name = " Monika";
     float marks = 78.9f;
 }
+/*
+* construction defines what happens when the object is created
+* when object created we need to allocate these things
+* */
