@@ -11,7 +11,7 @@ public class Constructor {
     }
 
 }
-
+//default constructor
 class Student{
 int rollno;
 String name;
