@@ -14,6 +14,7 @@ public class Basics {
 
 //        int a = 10;
 //        int b = 20;
+        if(a == 10 && b == 20)
         System.out.println("Multiplication of two number is: "+ a*b*c);
         System.out.println("Average of three number is: "+ ((a+b+c)/3));
     }
